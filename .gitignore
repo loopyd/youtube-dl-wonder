@@ -1,0 +1,6 @@
+env/
+bin/
+download/
+src/cookiebundle.txt
+src/*-download-archive.txt
+.python-version

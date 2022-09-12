@@ -20,7 +20,7 @@
 .NOTES
     The script contains extended archival features that the base YouTube-DL does not. 
     It ended up being a very useful tool for me over the years.  It is now yours in the
-    public domain as a single gist.
+    public domain as a single repository.
 #>
 Param(
     [Parameter(Mandatory=$false)][Switch]$Music = $false,

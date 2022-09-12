@@ -57,8 +57,8 @@ You get the error about a dubious repository.  This is because the repository co
 git config --global --add safe.directory <path_where_you_cloned>
 ```
 
-## Anit-Piracy and Copyright Law Notice
+## Further Reading
 
-I am obligated to say that this code is not intended to be used for privacy by design or use case.  It is intended to make it easier for creators to back up their own stuff, or royalty free content in the public domain that belongs to everyone.
+The license for this repository is located in [License](./LICENSE).  No credit for anything is to be taken and this software is free for you to use, copy, modify, and distribute as you want in the public domain.
 
-As this tool is intended for these uses by its design and its release into the public domain, you are actively  encouraged to refrain from using this tool for malicious purposes or those which may infringe on Copyright Laws or step upon Intellectual Property Rights.  Do not copy work and distribute it that does not belong to you, or anyone else in the public domain.
+Please review [Legal](./LEGAL.md) for some very important information about YouTubeDL project itself.

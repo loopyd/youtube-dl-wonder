@@ -59,6 +59,6 @@ git config --global --add safe.directory <path_where_you_cloned>
 
 ## Further Reading
 
-The license for this repository is located in [License](./LICENSE).  No credit for anything is to be taken and this software is free for you to use, copy, modify, and distribute as you want in the public domain.
+The license for this repository is located in [License](./LICENSE.md).  No credit for anything is to be taken and this software is free for you to use, copy, modify, and distribute as you want in the public domain.
 
 Please review [Legal](./LEGAL.md) for some very important information about YouTubeDL project itself.

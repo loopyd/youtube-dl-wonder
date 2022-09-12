@@ -1,5 +1,7 @@
-# YouTube-DL-Wonder
-### A not-so-hastily written polyglot powershell module
+# YouTube-DL-Wonderful
+### A Wonderful polyglot powershell module
+
+We perform the splendid process.
 
 ## Why?
 

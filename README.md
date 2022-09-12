@@ -25,7 +25,7 @@ Easily extendable.  Simply modify ``Configure-YouTubeDL`` function to add additi
 
 ## Installation
 
-1.  Clone the repository by running git clone https://github.com/loopyd/youtube-dl-wonder.git
+1.  Clone the repository by running ``git clone https://github.com/loopyd/youtube-dl-wonder.git``
 2.  Run ``.\run.ps1 -Clean -Install`` to perform initial setup.  
 3.  Dump your cookies into ``src/cookiebundle.txt`` using a cookies.txt dumper on YouTube while you are logged in.
 
